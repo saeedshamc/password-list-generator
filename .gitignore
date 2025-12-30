@@ -1,0 +1,30 @@
+# Binaries
+passgen
+passgen-*
+*.exe
+
+# Go
+*.test
+*.out
+go.work
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+*.txt
+wordlist*.txt
+output*.txt
+
+# Temporary files
+tmp/
+temp/
+
